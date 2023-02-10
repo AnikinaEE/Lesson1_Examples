@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\bin\Debug\net6.0\Example01_Hello.exe
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\bin\Debug\net6.0\Example01_Hello.deps.json
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\bin\Debug\net6.0\Example01_Hello.runtimeconfig.json
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\bin\Debug\net6.0\Example01_Hello.dll
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\bin\Debug\net6.0\Example01_Hello.pdb
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.AssemblyInfo.cs
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.dll
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\refint\Example01_Hello.dll
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.pdb
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\Example01_Hello.genruntimeconfig.cache
+C:\Users\User\Documents\Practicum_C#\Examples\Example01_Hello\obj\Debug\net6.0\ref\Example01_Hello.dll
